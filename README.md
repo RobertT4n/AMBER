@@ -21,7 +21,6 @@ For more details, please refer to our Extended Fig 2 in our BioRxiv preprint <li
 
 If you are interested in applying our methods or datasets, please refer to the following resources:  
 
-Read our preprint: < BioRxiv link>
-Access the dataset: GEO Accession GSE162511
-The step-by-step protocol is provided: 
-[Protocol (PDF)](Protocol/AMBER_Protocol.pdf)
+1. Read our preprint: < BioRxiv link>
+2. Access the dataset: GEO Accession GSE162511
+3. The step-by-step protocol is provided: [Protocol (PDF)](Protocol/AMBER_Protocol.pdf)
