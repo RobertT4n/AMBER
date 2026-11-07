@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bam
+*.bai
+*.cram
+.DS_Store
