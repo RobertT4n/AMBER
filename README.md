@@ -16,12 +16,12 @@ The AMBER library construct designs is as follows
 
 ![AMBER construct design](docs/AMBER_Construct_design.png)
 
-For more details, please refer to our Extended Fig 2 in our BioRxiv preprint <link>.
+For more details, please refer to our Extended Fig 2 in our BioRxiv [Preprint]([https://google.com](https://www.biorxiv.org/content/10.64898/2026.06.02.729594v1)) 
 
 ## Data and Citation:
 
 If you are interested in applying our methods or datasets, please refer to the following resources:  
 
-1. Read our preprint: < BioRxiv link>
+1. Read our preprint: [Preprint]([https://google.com](https://www.biorxiv.org/content/10.64898/2026.06.02.729594v1)) 
 2. Access the dataset: GEO Accession GSE162511
 3. The step-by-step protocol is provided: [Protocol](Protocol/AMBER_Protocol.pdf)
