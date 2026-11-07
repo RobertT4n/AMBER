@@ -24,4 +24,4 @@ If you are interested in applying our methods or datasets, please refer to the f
 
 1. Read our preprint: [preprint](https://www.biorxiv.org/content/10.64898/2026.06.02.729594v1).
 2. Access the dataset: GEO Accession GSE162511
-3. The step-by-step protocol is provided: [Protocol](Protocol/AMBER_Protocol.pdf)
+3. The step-by-step protocol is provided: [protocol](Protocol/AMBER_Protocol.pdf)
